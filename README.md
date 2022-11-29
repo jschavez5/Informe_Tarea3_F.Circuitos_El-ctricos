@@ -68,7 +68,7 @@ en paralelo estas se disminuyen e incrementan la corriente.
 - En circuitos en serie se desarrolla la Ley de Voltajes de Kirchhoff, la cuál indica que la fuente de voltaje es igual a la 
 suma algebráica de sus repectivas caídas de tensión. 
 
--En circuitos en paralelo se desarrolla la Ley de Corrientes de Kirchhoff, la cuál indica que la intesidad de corriente que entra
+- En circuitos en paralelo se desarrolla la Ley de Corrientes de Kirchhoff, la cuál indica que la intesidad de corriente que entra
 a un nodo, es igual a la intesidad de corriente que sale de dicho nodo. 
 
 ## Bibliografía 
